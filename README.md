@@ -1,4 +1,3 @@
-f2012
-=====
+Course materials for Autumn 2012 quarter. Authored by Niru Maheswaranathan and Hannah Payne.
 
-Course materials for Autumn 2012 quarter
+Released under [CC BY-NC-SA 3.0](http://creativecommons.org/licenses/by-nc-sa/3.0/).
